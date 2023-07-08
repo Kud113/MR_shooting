@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{5C1B31C6-4342-98BD-6ED4-3BAE574BE2F3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/code/Explosion.cs">
+    <Files>
+      <File FileName="Assets/code/DestroyObject.cs" Line="12" Column="17" />
+      <File FileName="Assets/code/Sounds.cs" />
+      <File FileName="Assets/code/Shooting.cs" />
+      <File FileName="Assets/code/HP.cs" Line="15" Column="83" />
+      <File FileName="Assets/code/Explosion.cs" Line="19" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MRgun" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="code" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e334af21-13e9-438a-ad9c-71075eb22bde" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
